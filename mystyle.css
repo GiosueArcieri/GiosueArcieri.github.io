@@ -1,5 +1,12 @@
-.paragraph{
-				text-align: justify; 
-				color:#675849;
-				background-color:#aaee00;
-				padding:20px;"}
+body {
+		background-color:#1F0358;
+}
+
+.me{
+		background-color:#98FF98;
+}
+
+.par{
+		margin: 20px;
+		background-color:#AA767C;
+		text-align:"justify";
